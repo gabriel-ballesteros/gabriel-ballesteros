@@ -4,13 +4,13 @@ I'm Gabriel, Computer Science student :computer: and former QC analyst with almo
 
 I also have recent data analytics experience in a south-american online delivery company. Daily tasks here included data extraction from the datalake and the backend database , defining and maintaining tracking definitions from web and mobile applications, making metrics reports and dashboards and also validating the team results in each product iteration against the company's Objectives and Key Results defined by the stakeholders.
 
-I find it fun to read data-related articles, learn new technologies and finding out how to better leverage their applications practically in order to bring business efficiency.
+I find it fun to read data-related articles, learn new technologies and finding out how to better leverage their applications practically.
 
 Whenever I have spare time, I love making alternative music in Ableton Live :musical_keyboard: participating in game jams :video_game: and playing board games with friends :game_die:
 
 ## :briefcase: What I've done
 
-You can check my portfolio [here](http://gabrielballesteros.com), I usually work on data projects :bar_chart: or small games :joystick:.
+You can check my portfolio [here](http://gabrielballesteros.com), I usually work on data projects :bar_chart: or small games :joystick:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ballesteros&layout=compact&hide=html&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gabriel-ballesteros/github-readme-stats)
 
