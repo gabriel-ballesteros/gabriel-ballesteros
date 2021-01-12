@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I'm Gabriel, Computer Science student at Universidad ORT Uruguay where I discovered how passionate I am about data analysis and finding patterns, and because of this I took a Data Analytics bootcamp in Sao Paulo.
-
-Former QC analyst with almost 6 years of experience in the area, working in the banking industry in Uruguay. Activities in this job consisted of reviewing business requirements, defining and executing test plans and acceptance testing with the client.
+I'm Gabriel, Computer Science student :computer: and former QC analyst with almost 6 years of experience in the area, working in the banking industry in Uruguay. Activities in this job consisted of reviewing business requirements, defining and executing test plans and acceptance testing with the client.
 
 I also have recent data analytics experience in a south-american online delivery company. Daily tasks here included data extraction from the datalake and the backend database , defining and maintaining tracking definitions from web and mobile applications, making metrics reports and dashboards and also validating the team results in each product iteration against the company's Objectives and Key Results defined by the stakeholders.
 
 I find it fun to read data-related articles, learn new technologies and finding out how to better leverage their applications practically in order to bring business efficiency.
 
-Whenever I have spare time, I love making alternative music in Ableton Live, participating in game jams and playing board games with friends.
+Whenever I have spare time, I love making alternative music in Ableton Live :musical_keyboard: participating in game jams :video_game: and playing board games with friends :game_die:
 
 ## :briefcase: What I've done
 
@@ -42,5 +40,5 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 ![godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?logo=godot%20engine&logoColor=white)
 
 ## :mailbox: How to reach me
-
-
+<img align="left" width="40px" src="img/linkedin.svg" href="https://www.linkedin.com/in/gabriel-ballesteros-a8b296b9/" target="_blank"/>
+<img width="40px" src="img/gmail.svg" href="mailto:gbrlballesteros.com"/>
