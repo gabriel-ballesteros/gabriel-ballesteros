@@ -10,9 +10,9 @@ Whenever I have spare time, I love making alternative music in Ableton Live :mus
 
 ## :briefcase: What I've done
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ballesteros&layout=compact)](https://github.com/gabriel-ballesteros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ballesteros&layout=compact)](https://github.com/gabriel-ballesteros/github-readme-stats?theme=radical)
 
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-ballesteros&hide=contribs,stars)
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-ballesteros&hide=contribs,stars&theme=radica)
 
 You can check my portfolio [here](http://gabrielballesteros.com), I usually work on data projects :bar_chart: or small games :joystick:.
 
