@@ -19,12 +19,15 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 ## :computer: Technologies I know
 
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![selenuim](https://img.shields.io/badge/-selenuim-00ED00)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/-matplotlib-6CADDF)
+![seaborn](https://img.shields.io/badge/-seaborn-8669AE)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![flask](https://img.shields.io/badge/-flask-000000?logo=flask&logoColor=white)
 ![linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
