@@ -21,7 +21,7 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 ## :computer: Technologies I know
 
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![selenuim](https://img.shields.io/badge/-selenuim-00ED00)
+![selenuim](https://img.shields.io/badge/-selenuim-41ab2c)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/-matplotlib-6CADDF)
