@@ -2,7 +2,7 @@
 
 I'm Gabriel, Computer Science student :computer: and former QC analyst with almost 6 years of experience in the area, working in the banking industry in Uruguay. Activities in this job consisted of reviewing business requirements, defining and executing test plans and acceptance testing with the client.
 
-I also have recent data analytics experience in a south-american online delivery company. Daily tasks here included data extraction from the datalake and the backend database , defining and maintaining tracking definitions from web and mobile applications, making metrics reports and dashboards and also validating the team results in each product iteration against the company's Objectives and Key Results defined by the stakeholders.
+I also have recent data analytics experience in a south-american online delivery company. Daily tasks here included data extraction from the datalake and the backend database , defining and maintaining tracking definitions from web and mobile applications, making metrics reports and dashboards and also validating the team results in each product iteration against the company's Objectives and Key Results and the Key Product Indicators.
 
 I find it fun to read data-related articles, learn new technologies and finding out how to better leverage their applications practically.
 
