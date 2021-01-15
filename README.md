@@ -47,7 +47,9 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 ## :mailbox: How to reach me
 [<img align="left" alt="LinkedIn" width="40px" src="img/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="40px" src="img/gmail.svg" />][mail]
+[<img align="left" alt="LinkedIn" height="40px" src="img/kaggle.svg" />][kaggle]
 
 [linkedin]: https://www.linkedin.com/in/gabriel-ballesteros-a8b296b9/
 [mail]: mailto:gbrlballesteros.com
+[kaggle]: https://www.kaggle.com/elros28
 
