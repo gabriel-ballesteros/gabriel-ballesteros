@@ -45,5 +45,9 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 ![godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?logo=godot%20engine&logoColor=white)
 
 ## :mailbox: How to reach me
-<img align="left" width="40px" src="img/linkedin.svg" href="https://www.linkedin.com/in/gabriel-ballesteros-a8b296b9/" target="_blank"/>
-<img width="40px" src="img/gmail.svg" href="mailto:gbrlballesteros.com"/>
+[<img align="left" alt="LinkedIn" width="40px" src="img/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="40px" src="img/gmail.svg" />][mail]
+
+[linkedin]: https://www.linkedin.com/in/gabriel-ballesteros-a8b296b9/
+[mail]: mailto:gbrlballesteros.com
+
