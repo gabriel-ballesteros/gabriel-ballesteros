@@ -40,8 +40,7 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 
 ## :seedling: I'm currently studying/working on
 
-![mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white)
+![tensorflow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?logo=godot%20engine&logoColor=white)
 
 ## :mailbox: How to reach me
@@ -52,4 +51,3 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 [linkedin]: https://www.linkedin.com/in/gabriel-ballesteros-a8b296b9/
 [mail]: mailto:gbrlballesteros.com
 [kaggle]: https://www.kaggle.com/elros28
-
