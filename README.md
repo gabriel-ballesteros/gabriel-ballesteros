@@ -16,7 +16,7 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 
 [![codewars](https://www.codewars.com/users/gabriel-ballesteros/badges/large)](https://www.codewars.com/users/gabriel-ballesteros)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ballesteros&layout=compact&hide=html&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gabriel-ballesteros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ballesteros&langs_count=10&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/gabriel-ballesteros?tab=repositories)
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-ballesteros&hide=contribs,stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
