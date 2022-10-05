@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gabriel, Computer Science student :computer: and former QC analyst with almost 6 years of experience in the area, working in the banking industry in Uruguay. Activities in this job consisted of reviewing business requirements, defining and executing test plans and acceptance testing with the client.
+I'm Gabriel, Computer Science student at the University of London :computer: and former QC analyst with almost 6 years of experience in the area, working in the banking industry in Uruguay. Activities in this job consisted of reviewing business requirements, defining and executing test plans and acceptance testing with the client.
 
 I also have recent data analytics experience at PedidosYa and Playkids. Daily tasks here included data extraction from the datalake and the backend database , defining and maintaining tracking definitions from web and mobile applications, making metrics reports and dashboards and also validating the team results in each product iteration against the company's Objectives and Key Results and the Key Product Indicators.
 
@@ -25,6 +25,7 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 ![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![selenuim](https://img.shields.io/badge/-selenuim-41ab2c?logo=selenium&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
@@ -41,7 +42,6 @@ You can check my portfolio [here](http://gabrielballesteros.com), I usually work
 
 ## :seedling: I'm currently studying/working on
 
-![go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?logo=godot%20engine&logoColor=white)
 
