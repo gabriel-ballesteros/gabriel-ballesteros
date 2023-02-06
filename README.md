@@ -4,7 +4,7 @@ I'm Gabriel, Computer Science student at the University of London :computer: and
 
 I also have recent data analytics experience at PedidosYa and Playkids. Daily tasks here included data extraction from the datalake and the backend database , defining and maintaining tracking definitions from web and mobile applications, making metrics reports and dashboards and also validating the team results in each product iteration against the company's Objectives and Key Results and the Key Product Indicators.
 
-Nowadays I find myself working as a backend developer at MercadoLibre in the Fraud Prevention team.
+After working over a year as a backend developer at Mercadolibre, now I find myself working as a data scientist in the Fraud Prevention team.
 
 I find it fun to read data-related articles, learn new technologies and finding out how to better leverage their applications practically.
 
